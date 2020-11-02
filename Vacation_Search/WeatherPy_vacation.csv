@@ -1,0 +1,49 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+0,Phan Thiet,VN,75.51,'overcast clouds',10.93,108.1,Hotel Saigon-PT
+1,Cape Town,ZA,66.99,'clear sky',-33.93,18.42,Southern Sun Waterfront Cape Town
+2,Georgetown,MY,78.8,'scattered clouds',5.41,100.34,Cititel Penang
+3,Victoria,HK,75.0,'overcast clouds',22.29,114.16,Mini Hotel Central
+5,Huichapan,MX,71.6,'clear sky',20.38,-99.65,Hotel Boutique Casa Bixi
+6,Puerto Gaitan,CO,74.52,'overcast clouds',4.31,-72.08,Brisas del Yucao
+7,Cap Malheureux,MU,66.99,'scattered clouds',-19.98,57.61,Pereybere Hotel & Spa
+10,Port Hedland,AU,75.2,'overcast clouds',-20.32,118.57,The Esplanade Hotel
+11,Joao Pinheiro,BR,70.16,'light rain',-17.74,-46.17,Hotel Santos
+14,Arraial Do Cabo,BR,71.6,'broken clouds',-22.97,-42.03,Pousada Porto Praia
+17,Abu Kamal,SY,72.77,'broken clouds',34.45,40.92,محطة التلفاز
+22,Rikitea,PF,74.8,'light rain',-23.12,-134.97,Pension Maro'i
+24,Vaini,TO,78.8,'few clouds',-21.2,-175.2,Keleti Beach Resort
+28,Ponta Do Sol,PT,69.01,'few clouds',32.67,-17.1,Hotel do Campo
+30,Rajapalaiyam,IN,78.49,'broken clouds',9.45,77.57,vishnu stores
+34,Mocuba,MZ,70.39,'broken clouds',-16.84,36.99,Phama Lodge
+35,Gushikawa,JP,71.6,'clear sky',26.35,127.87,Kirari Guest House
+36,Atuona,PF,77.54,'light rain',-9.8,-139.03,Villa Enata
+44,Mangrol,IN,78.37,'broken clouds',21.12,70.12,Hotel The Royal Honours
+48,Takoradi,GH,78.66,'overcast clouds',4.88,-1.76,Raybow International Hotel
+53,Hualmay,PE,65.88,'broken clouds',-11.1,-77.61,Hotel Restaurant Turístico Casablanca
+57,San Luis,AR,79.66,'clear sky',-33.3,-66.34,Huarpes Hotel
+59,Sao Joao Da Barra,BR,71.6,'broken clouds',-21.64,-41.05,Pousada Porto De Canoas
+64,Carnarvon,AU,68.0,'clear sky',-24.87,113.63,Hospitality Carnarvon
+65,Vila Velha,BR,73.4,'broken clouds',-20.33,-40.29,Hotel Vitória Palace
+71,Saint-Pierre,RE,69.8,'overcast clouds',-21.34,55.48,Lindsey Hôtel
+74,Sambava,MG,71.15,'broken clouds',-14.27,50.17,Melrose
+75,Mahebourg,MU,69.8,'scattered clouds',-20.41,57.7,Shandrani Beachcomber Resort & Spa
+77,Avarua,CK,78.8,'light rain',-21.21,-159.78,Paradise Inn
+84,Mayumba,GA,76.96,'overcast clouds',-3.43,10.66,LIKWALE LODGE
+85,Matara,LK,76.77,'scattered clouds',5.95,80.54,Amaloh Boutique Resort
+92,Peniche,PT,66.0,'overcast clouds',39.36,-9.38,Hotel Star inn Peniche
+93,Port-Gentil,GA,78.8,'thunderstorm',-0.72,8.78,Fengshui Residence
+95,Tura,IN,68.56,'overcast clouds',25.52,90.22,Hotel RIKMAN Continental
+97,Bandarbeyla,SO,76.8,'clear sky',9.49,50.81,REER XOOSHLE GROUP
+101,Boquira,BR,72.7,'light rain',-12.82,-42.73,Restaurante e Pousada Boquira
+104,Charters Towers,AU,77.05,'clear sky',-20.1,146.27,Cattleman's Rest Motor Inn
+105,Hervey Bay,AU,77.0,'clear sky',-25.3,152.85,Shelly Bay Resort
+107,Yulara,AU,71.6,'scattered clouds',-25.24,130.99,Desert Gardens Hotel - Ayers Rock Resort
+110,Luena,AO,65.97,'few clouds',-11.78,19.92,Hotel Kandamba
+112,Malakal,SS,75.04,'few clouds',9.53,31.66,Nile Palace Hotel
+114,Bambous Virieux,MU,69.8,'scattered clouds',-20.34,57.76,Casa Tia Villa
+116,Batemans Bay,AU,66.0,'few clouds',-35.72,150.18,Batemans Bay Marina Resort
+120,Namibe,AO,74.08,'broken clouds',-15.2,12.15,Hotel Chik Chik Namibe
+130,Huarmey,PE,66.24,'overcast clouds',-10.07,-78.15,Hotel Miramar
+132,Puerto Ayora,EC,77.0,'scattered clouds',-0.74,-90.35,Finch Bay Galapagos Hotel
+133,Mahajanga,MG,75.2,'few clouds',-15.72,46.32,Restaurant Greedy Coco Lodge Majunga
+705,Riyadh,SA,66.2,'clear sky',24.69,46.72,InterContinental Riyadh
